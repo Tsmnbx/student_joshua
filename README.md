@@ -25,20 +25,5 @@ Here is the github repo for the webistie I created with the HTML files
 
 https://github.com/Tsmnbx/BCB420-Gene-Analysis-Human-Telomerase-Rna-Processing-and-Quality-Control
 
-About
-No description, website, or topics provided.
-Topics
-Resources
- Readme
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Environments 1
- github-pages Active
-Languages
-HTML
-100.0%
+
 
